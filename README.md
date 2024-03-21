@@ -38,7 +38,10 @@ The script will output a CSV file with the following data:
 
 **Images:**
 
-Screenshot of the 16th Circuit Court Property Tax Sale website: [se quitó una URL no válida]
+![Screenshot of the 16th Circuit Court Property Tax Sale website: \[se quitó una URL no válida\]](https://raw.githubusercontent.com/jmonaste/Parcels-Scrap/main/assets/web-page.bmp)
+
+https://raw.githubusercontent.com/jmonaste/Parcels-Scrap/main/assets/results.bmp
+
 
 **Contact:**
 
